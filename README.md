@@ -1,7 +1,5 @@
-# GraphQL-ApolloClient-Template
+# GraphQL-Apollo-Client
 
-## Youtube Tutorial
-[YOUTUBE VIDEO](https://www.youtube.com/watch?v=Dr2dDWzThK8)
 
 
 ## Stack
